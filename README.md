@@ -1,0 +1,1 @@
+This resume template is a working template in which you can add your details in the index.html file and it could add all your projects, you just have to copy the project code to your number of project and names for it.
